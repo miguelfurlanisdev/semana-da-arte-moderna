@@ -1,3 +1,6 @@
-*{
-    background-image: url(im);
+body {
+    background-image: url(../img/Retrato\ Modernista\ em\ Espaço\ Sombrio.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
