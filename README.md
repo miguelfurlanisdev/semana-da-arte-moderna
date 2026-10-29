@@ -12,6 +12,7 @@ O site apresenta a história de Anita Malfatti, o contexto histórico da Semana 
 
 A organização dos arquivos e diretórios do repositório está disposta da seguinte forma:
 
+```markdown
 .
 ├── img/
 │   └── anita-malfatti-cke.webp  # Imagem da pintura "A Boba"
@@ -21,7 +22,7 @@ A organização dos arquivos e diretórios do repositório está disposta da seg
 │   └── style.css              # Folha de estilos CSS do projeto
 ├── index.html                 # Página principal / Início
 └── README.md                  # Documentação do projeto
-
+```
 
 ## 🚀 Tecnologias Utilizadas
 
